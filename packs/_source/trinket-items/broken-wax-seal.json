@@ -1,0 +1,59 @@
+{
+  "_id": "8feObHW57qgWVUMG",
+  "name": "Broken Wax Seal",
+  "type": "loot",
+  "img": "icons/commodities/treasure/broach-cameo-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>A disc of red wax bearing a sigil, snapped cleanly in half.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "",
+      "page": "",
+      "license": "",
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "identifier": "broken-wax-seal"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": "npc-generator",
+    "systemVersion": "0.1.0",
+    "createdTime": 1785008842303,
+    "modifiedTime": 1785008842303,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8feObHW57qgWVUMG"
+}

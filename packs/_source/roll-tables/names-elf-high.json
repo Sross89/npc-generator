@@ -1,0 +1,1329 @@
+{
+  "_id": "0RqA77TtvX8oqEs9",
+  "name": "Names — Elf, High",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "g7Kss8QPCu3XTF1h",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naerilindor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.g7Kss8QPCu3XTF1h"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "KuGP8wowtLfzXpu4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aelwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.KuGP8wowtLfzXpu4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "bUNUyLvEYsrpSyQM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miiriel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.bUNUyLvEYsrpSyQM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "71Bvs9NPldgwgCyO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enorandor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.71Bvs9NPldgwgCyO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "FiXkVnx1rPK22BPL",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thaloravien",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.FiXkVnx1rPK22BPL"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "OAcG3ob3xvcEtUoM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ilyraran",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.OAcG3ob3xvcEtUoM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "JSpjFQeIy097n3Em",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aerinithil",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.JSpjFQeIy097n3Em"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "mzlPItoiTwVe69QM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caeliel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.mzlPItoiTwVe69QM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "9z5kJiYSefafddA7",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silaressa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.9z5kJiYSefafddA7"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "erhQYZD2tnJ89ABg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miiressa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.erhQYZD2tnJ89ABg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "1D0Fr6jpFnAsl15u",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silarwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.1D0Fr6jpFnAsl15u"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "fgB395VNoTfLaAEB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lorelithil",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.fgB395VNoTfLaAEB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "bHVirOYRVIZhFhTi",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naerilavel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.bHVirOYRVIZhFhTi"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "DXvkL3V2UUPj6VSw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enoravel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.DXvkL3V2UUPj6VSw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "y0Nw4mYSB32TZw9g",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faelavien",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.y0Nw4mYSB32TZw9g"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "8FOMHTNdQT2s0RB6",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enoressa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.8FOMHTNdQT2s0RB6"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "1IkQZc1PZHPWQKlv",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loreloth",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.1IkQZc1PZHPWQKlv"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "PlkX725aU0ME86RX",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aelandor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.PlkX725aU0ME86RX"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "TRJ9iPRZrs6xliUU",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thaloraran",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.TRJ9iPRZrs6xliUU"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "N69F1ex9FYc1LSwT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yavelindor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.N69F1ex9FYc1LSwT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "uEpOmbTBhwfm8qBY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dorwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.uEpOmbTBhwfm8qBY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "gwbXw22qR1wlc6zL",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beirwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.gwbXw22qR1wlc6zL"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "cfieqDH21wJE1Ovm",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yavelwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.cfieqDH21wJE1Ovm"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "9DbQWMOPSpYutM4K",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caelavel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.9DbQWMOPSpYutM4K"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "ScqMLpkWl5wFeEUe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aerinoth",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.ScqMLpkWl5wFeEUe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "DxFrruh57bS4BHJ8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aelithil",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.DxFrruh57bS4BHJ8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "Wb6TpipFHZeJX45D",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isilaravien",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.Wb6TpipFHZeJX45D"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "EtFDQYe2XZbsxpaK",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enoraran",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.EtFDQYe2XZbsxpaK"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "F1mk5C0cUttupw65",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caelessa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.F1mk5C0cUttupw65"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "K0ebjE10pKlRDtMw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lorelessa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.K0ebjE10pKlRDtMw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "95X6YAAtAbDHlQCN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gilenavel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.95X6YAAtAbDHlQCN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "KDAyu9FLSHfpHHzA",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aerinavien",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.KDAyu9FLSHfpHHzA"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "2FRdrao3vuZdDTxV",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isilarandor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.2FRdrao3vuZdDTxV"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "9m5FD1u0zflcgWlw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aerinaran",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.9m5FD1u0zflcgWlw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "oRnNRRtPOSsr9dX2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elenwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.oRnNRRtPOSsr9dX2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "wAASDlUScuXX3yks",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Belanaran",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.wAASDlUScuXX3yks"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "1HmwCm7QorAel8kB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isilararan",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.1HmwCm7QorAel8kB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "h4FC78yARcN6tpyO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naerilessa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.h4FC78yARcN6tpyO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "OXaInHTFWGVrImx8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gilenandor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.OXaInHTFWGVrImx8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "sOgwqBfqt9lyrJa2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Naerilaran",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.sOgwqBfqt9lyrJa2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "fzr2UBLIpiALVlwZ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Doravien",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.fzr2UBLIpiALVlwZ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "drwns88nIu9162yV",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Doravel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.drwns88nIu9162yV"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "ZibQdBI7vCA4UJmj",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beiriel",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.ZibQdBI7vCA4UJmj"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "6lKfTbt2jYKOmOKo",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miirindor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.6lKfTbt2jYKOmOKo"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "rR3ymclcVh1InPH9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enorwyn",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.rR3ymclcVh1InPH9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "WJBmsCQ41eAa0tbA",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miiroth",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.WJBmsCQ41eAa0tbA"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "iEx5ILwzUhAGtY3W",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silaroth",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.iEx5ILwzUhAGtY3W"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "jt3arXP51Pm7Cowl",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Doroth",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.jt3arXP51Pm7Cowl"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "Q5auiR1WlxXG3NZN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beirindor",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.Q5auiR1WlxXG3NZN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "Gk3KQpJ5nnjcr6BK",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776658,
+        "modifiedTime": 1785012776658,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Belanessa",
+      "name": "",
+      "_key": "!tables.results!0RqA77TtvX8oqEs9.Gk3KQpJ5nnjcr6BK"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785012776658,
+    "modifiedTime": 1785012776658,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d50",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!0RqA77TtvX8oqEs9"
+}

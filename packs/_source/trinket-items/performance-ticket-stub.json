@@ -1,0 +1,59 @@
+{
+  "_id": "UMCdcFZ0CQaIHC33",
+  "name": "Performance Ticket Stub",
+  "type": "loot",
+  "img": "icons/commodities/treasure/broach-cameo-gold.webp",
+  "system": {
+    "description": {
+      "value": "<p>A stub of thick paper, the ink of the event's name smudged beyond reading.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "",
+      "book": "",
+      "page": "",
+      "license": "",
+      "rules": "2024"
+    },
+    "quantity": 1,
+    "weight": {
+      "value": 0,
+      "units": "lb"
+    },
+    "price": {
+      "value": 1,
+      "denomination": "sp"
+    },
+    "rarity": "",
+    "identified": true,
+    "type": {
+      "value": "trinket",
+      "subtype": ""
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "container": null,
+    "properties": [],
+    "identifier": "performance-ticket-stub"
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": "npc-generator",
+    "systemVersion": "0.1.0",
+    "createdTime": 1785008842303,
+    "modifiedTime": 1785008842303,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!UMCdcFZ0CQaIHC33"
+}

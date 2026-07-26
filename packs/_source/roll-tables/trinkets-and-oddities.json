@@ -1,0 +1,3053 @@
+{
+  "_id": "kVyxnINgxWRBEZxy",
+  "name": "Trinkets & Oddities",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2EGICbZHAZWRugr8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tarnished Silver Locket",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.2Yxf7zcNn9LEEwFH",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.2EGICbZHAZWRugr8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "dJ5kDdpYLQ4Yzsbq",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Loaded Dice",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Lf2qZHXNrHDnFOt3",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.dJ5kDdpYLQ4Yzsbq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9bhBlSPkEiS2OX3c",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dented Tin Whistle",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.tM4hWpdcWWhqT2Mh",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.9bhBlSPkEiS2OX3c"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "Fvm68GHrg8a5onLU",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cracked Spyglass Lens",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.38oB3QbHP9vjZ0wu",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.Fvm68GHrg8a5onLU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "NjEg0mGqkwGO7enc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pressed Flower in Glass",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.hcqnDlKvgfYcDyXv",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.NjEg0mGqkwGO7enc"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "QHUP1JrQvyu1vUvd",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rune-Carved Pebble",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.SNkEhYIv64BDWU6N",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.QHUP1JrQvyu1vUvd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "t6sTz4t7LFEHdzkW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Faded Love Letter",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.ga1FXekdEJ60EaVn",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.t6sTz4t7LFEHdzkW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lXsZbgRDdS8RRpcb",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Miniature Brass Compass",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.uN9sFCcNXTdufmzJ",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.lXsZbgRDdS8RRpcb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lGXt6w2s4pBHwHv8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Chipped Ivory Comb",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.fWpww9GX5Ra64af8",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.lGXt6w2s4pBHwHv8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "VnDUxJ4cN8nckaRq",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Knotted Prayer Cord",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.BykUfOZZDkkKE1jG",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.VnDUxJ4cN8nckaRq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nTIiSBVr0earskaC",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Single Silk Glove",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Orv4AMZXT0xay717",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.nTIiSBVr0earskaC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "0HbkRHp8ZuUlMZkK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Wax-Sealed Vial of Ash",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.wlrOC5pPvOkAcL8s",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.0HbkRHp8ZuUlMZkK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "aBjdSz8ujn1T1QNx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Brass Key with No Matching Lock",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.ccB4k5pxul1PKy3t",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.aBjdSz8ujn1T1QNx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "uG1F8bFzu4JAWWWp",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Coin From No Known Mint",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.y6WdlTGd0NSMdgHj",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.uG1F8bFzu4JAWWWp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "DKWUWhNmRb6zLchY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Child's Wooden Top",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.eJnusjbNAchxBNYT",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.DKWUWhNmRb6zLchY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rHl5nS19CAGgQy5T",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Silver Ring Engraved with Two Names",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.i64WDCbim6cmccDJ",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.rHl5nS19CAGgQy5T"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "B7kiZpIagkPOngMQ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Broken Wax Seal",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.8feObHW57qgWVUMG",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.B7kiZpIagkPOngMQ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lqZ62bHaIfzMZO1A",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Empty Perfume Vial",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.iptKAiDh3QQzYpwI",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.lqZ62bHaIfzMZO1A"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "JDYdJBH8kg4XIbRW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Folded Paper Crane",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.HtlSOwrjrf3I4m6W",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.JDYdJBH8kg4XIbRW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "BgfiLO7FfsjvWFVP",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Iron Nail Bent Into a Loop",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.GXvt59WaVtvbUCaN",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.BgfiLO7FfsjvWFVP"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "HoA8uTJFLTewplpI",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tiny Painted Miniature Soldier",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.JBzMw2CNljHQTA2I",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.HoA8uTJFLTewplpI"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "Y1ztDg7hRoovsJR1",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scrap of Fine Embroidery",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.If2EmQ0I0AIBxEVw",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.Y1ztDg7hRoovsJR1"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ey8mOq2Prte4B9gW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Holed River Stone",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Vx6Sg8voRc3rQA7e",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ey8mOq2Prte4B9gW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "iIW6RGzMCizuWoQp",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Silenced Brass Bell",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.tuH7EYG3oNNBteUn",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.iIW6RGzMCizuWoQp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "CVhFSuKUHduJ7OGR",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Performance Ticket Stub",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.UMCdcFZ0CQaIHC33",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.CVhFSuKUHduJ7OGR"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "DMGiGP1AlJUioCSf",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Braided Lock of Hair",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Nucgpy0ukr6MGjd9",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.DMGiGP1AlJUioCSf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yxt2h4skGIEeEXnD",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Carved Bone Whistle",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.pVEHLx8SPly4LA03",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.yxt2h4skGIEeEXnD"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "i2pqjkc1mQuBazge",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vial of Pale Sand",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.md3KigmY6dczlLcK",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.i2pqjkc1mQuBazge"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hlricbvLwRJvwVHi",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Deck of Cards Missing One",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.uEvqSKRzsBt2CHW8",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.hlricbvLwRJvwVHi"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xclS1GD68xyaDnms",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scratched-Out Locket Portrait",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.myAaEoI4h7sJnBR1",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.xclS1GD68xyaDnms"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hh9Ntplm2GlwlhbY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Iron Ration Chit",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.u6JnM76LhoGvyYQu",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.hh9Ntplm2GlwlhbY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "J2swTROesFLJnQct",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Single Fine Earring",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.LGn9lsQPV1cEOi8a",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.J2swTROesFLJnQct"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "izTUw2DFhQYs3OYk",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Flaking Pocket Mirror",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.qYq3w7nLZqMp8lzV",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.izTUw2DFhQYs3OYk"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "498ml7aVMUdbMTKV",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pouch of Foreign Spice",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.VfnYLhmDxnutZxTv",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.498ml7aVMUdbMTKV"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "s0tULdUKc7HrUsHB",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hand-Copied Prayer",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.0Ef3gVQ9HZoJUWLz",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.s0tULdUKc7HrUsHB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ccdSUY4IjCeRD3SB",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Statuette of an Unfamiliar Deity",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.ZZPAtpFF7RLcGuoF",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ccdSUY4IjCeRD3SB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "c483Qtnm4dIB1p0o",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pristine Silver Statuette of Tyr",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.h1HYXCvuXKE7LDhe",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.c483Qtnm4dIB1p0o"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "nvStQKdyvwmVhZsX",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Corroded Holy Symbol of Bhaal",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.UJExuYebVOmqKilh",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.nvStQKdyvwmVhZsX"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "rwnLsAeF7cHVArZq",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Rune-Etched Necklace",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.bEiJITl9I3KdC5GO",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.rwnLsAeF7cHVArZq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "TDSB6xreiwuEotjA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bundle of Unopened Letters",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.wZlAn4y2SGAHjGVm",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.TDSB6xreiwuEotjA"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "KafunfDfN5P4e7HH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frozen Pocket Watch",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.KmF5BdX4hRM0wY8D",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.KafunfDfN5P4e7HH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "oXkY94nfkjtzony3",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Subtly Weighted Dice",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.mQhH94vaarnPnf1c",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.oXkY94nfkjtzony3"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "EirMa8HRrjoq10xE",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Smoothed Bronze Medallion",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.gslqmMQj7vuXp3JD",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.EirMa8HRrjoq10xE"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "UzeFSSHbvGonOF0A",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hand-Stitched Cloth Doll",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.PTPXYNmOrAr8LhFL",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.UzeFSSHbvGonOF0A"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "mFRWMIU92Wb7c5ET",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vial Labeled 'Tears'",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.NBlNmZIDeWGm0tkg",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.mFRWMIU92Wb7c5ET"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "pfHVK2vIV3G42Aa2",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Single Pearl Button",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.T5qO0BwlKYu7AP2q",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.pfHVK2vIV3G42Aa2"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kI4rwP7VasV6EQVt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Empty Iron Cage",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.3HhPQTXC1ZGc9kPg",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.kI4rwP7VasV6EQVt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "CEpCdKtLgsPDIDgo",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Map Fragment with a Marked X",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Yjh3knnWRsS5ub9H",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.CEpCdKtLgsPDIDgo"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "iO4dC5dxzMmxVs7z",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Unevenly Burned Candle Stub",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.251TqHwfkb9vmYn2",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.iO4dC5dxzMmxVs7z"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "WNVvGTYrOag1l8Mq",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Prayer Beads, One Different",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.jjwtbivCsAAVP0hb",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.WNVvGTYrOag1l8Mq"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ckNLwnsiXnsK1Wpn",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Blank Leather-Bound Notebook",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.qBvCfw3XxYqHN8jV",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ckNLwnsiXnsK1Wpn"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "WEzZNqqAgolk3Gbs",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bent Wedding Band",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.To9gGFf8b923Cjs5",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.WEzZNqqAgolk3Gbs"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "GMcCZCLDIhGA93ui",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Worn Jade Fish Carving",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.kLPfHwyUB0z92n6f",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.GMcCZCLDIhGA93ui"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "IaBY3qPEGPI5RqOH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Unremembered Regimental Pin",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.63FwqevzduNbAqbC",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.IaBY3qPEGPI5RqOH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "WECnVD7SzA01wX4C",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sachet of Faded Flowers",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.jWi5g7nn0gRjKSli",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.WECnVD7SzA01wX4C"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ySthxGgf97Vf8bZH",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Key on a Snapped Chain",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.LKTgbEnnGBmz2aMa",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ySthxGgf97Vf8bZH"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4KBbPqlwO0KNs1B0",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scrimshaw Tooth Pendant",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Z7419u5U45iV1Ryn",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.4KBbPqlwO0KNs1B0"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "zTW9mwdkCtrL35dc",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mismatched Glass Eye",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.G4Wx0rrZrTpVLpvv",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.zTW9mwdkCtrL35dc"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cZTU9X6AMB2VzvYu",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vague Betting Slip",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.3NojwBHCnPjtzqVm",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.cZTU9X6AMB2VzvYu"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "lf6N3Bf3FogcDZyK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Locket with a Tuft of Fur",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.XgRF56pQJjuPP0at",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.lf6N3Bf3FogcDZyK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yBwEQP1b7lMC9Lw5",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Filed Signet Ring",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.cjhAVGHEhuB3imUy",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.yBwEQP1b7lMC9Lw5"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "bQ84iLzNBDY6WbWf",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Letter Never Delivered",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.SaHoKaBrrs0mQ6AX",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.bQ84iLzNBDY6WbWf"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "MEl1WxIvEwkNUUhW",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Thimble with Unmatched Initials",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.PdpkawoHMO3z9rf1",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.MEl1WxIvEwkNUUhW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "gWzh7yXyOd3gkhA9",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Torn Painted Fan",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.86P2ws4dhL9UrMu5",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.gWzh7yXyOd3gkhA9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6bsmYAE9VVc5J3iU",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Manacle Key, Lock Long Gone",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.Ko2CxKvDuu4eVbOj",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.6bsmYAE9VVc5J3iU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cuvr8LnnmWaOUsiK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Oversized Antler Button",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.d2E0i34BNiKA15A0",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.cuvr8LnnmWaOUsiK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "QiXnSPpwvDywcb2O",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vial of Grave Dirt",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.ULHIZWRm174yDsyC",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.QiXnSPpwvDywcb2O"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6JxyDXeErWdI1W2v",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clockwork Bird, Key Missing",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.xY3XSuy4jlqG39ej",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.6JxyDXeErWdI1W2v"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "fSClheseZsw8wv8E",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Whittled Holy Symbol",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.SHf9VJ9hCYJoxcvP",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.fSClheseZsw8wv8E"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "OUIarRqOdr4qMJSm",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Insignia Cut from Cloth",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.jLbJV5u9x84v9EXq",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.OUIarRqOdr4qMJSm"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "IDy9tuMOtiQ8VJRt",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Merchant's Scale, One Pan Missing",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.hQqe4R0FePSCsmAK",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.IDy9tuMOtiQ8VJRt"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "hscbz9S19oKw5oC8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Clover Pressed in Wax Paper",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.r84faTF4XLmjug5F",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.hscbz9S19oKw5oC8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "FlYmCbxuUA9l8SWJ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Lone Die from a Matched Set",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.zBB8JtCi2wtvxQkG",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.FlYmCbxuUA9l8SWJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "wcFoXlW6CnqZ50R9",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vial of Dried Ink",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.KIlP2mgqeuYPpET2",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.wcFoXlW6CnqZ50R9"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "kiEHT4yqVKuTT6Dj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Delicate Silver Hairpin",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.emOW5sFszyypirfQ",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.kiEHT4yqVKuTT6Dj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "EXpsjSyNTf6kLmHe",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Numbered Wooden Tag",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.dBAybyd3BSvS7mu0",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.EXpsjSyNTf6kLmHe"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "VFqc5EJX6IsgaaMY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Chalk Worn to a Nub",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.pp9IAD4yUAnnHhTj",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.VFqc5EJX6IsgaaMY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "8L94ledJSQbWq545",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vial of Blood, Sealed with Wax",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.cL51QVz8xlkeittI",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.8L94ledJSQbWq545"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "N4IwtNpTHfc4xYYx",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cracked Monocle Lens",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.dhPegzoq7rfcfkkk",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.N4IwtNpTHfc4xYYx"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "3t6Ylzsw8p6fMB17",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Faded Friendship Bracelet",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.zf18Zrxuw2HBu1Ya",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.3t6Ylzsw8p6fMB17"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "T1t0T2TibMhX3a94",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Pendant of an Unrecognized Face",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.TsGXPIwgZMxpFJKW",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.T1t0T2TibMhX3a94"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "N03gMi8Rn4g0USE7",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Tiny Diary, Key Lost",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.joFkYbm9rW2dPMx6",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.N03gMi8Rn4g0USE7"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "6c6gcWyVp0owF38P",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Softened Prayer Card",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.cUcZvQPkElfBDSXM",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.6c6gcWyVp0owF38P"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "yMdtG7OMGqmuQiQU",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842341,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Polished Tooth on a Cord",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.cWvXInDGnSaIwLPN",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.yMdtG7OMGqmuQiQU"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "XsGCQiC4ohvZnUZ4",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842341,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hollow Painted Egg",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.kH6gcujsQRpLMXHn",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.XsGCQiC4ohvZnUZ4"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "oRF9bFe2jj0D10Gh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Frayed Once-Fine Ribbon",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.B3pS1FNclf6sjxFm",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.oRF9bFe2jj0D10Gh"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "RCmbiwFSyTYyolv8",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Compass Rose Medallion",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.omyFt02N4IKJSW2c",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.RCmbiwFSyTYyolv8"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "d5lXMajZzN6CM8qh",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Small Pouch of Baby Teeth",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.YrtSFrYsuY8tcJ88",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.d5lXMajZzN6CM8qh"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "DmgHV8debcKIbDBr",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bent Traveling Spoon",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.djmFyoJ5gu8oyXqA",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.DmgHV8debcKIbDBr"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2pObTt7gYwveOc0K",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Antler Dice Cup",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.DaWVNcMS1T3d8O3Y",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.2pObTt7gYwveOc0K"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4dBEE0A01etS1Q0O",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Leather Tattoo Stencil",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.UkNy93BxA2KlWKdg",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.4dBEE0A01etS1Q0O"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "N1q9UJBb9QBpKy96",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Carefully Wrapped Tin Whistle",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.0QDLSdJlPiEM2Abl",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.N1q9UJBb9QBpKy96"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "2reTc9D743cLQBwB",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Dated Vial of Ashes",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.tATXqRCysCYLUWPZ",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.2reTc9D743cLQBwB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "MMsIGqF6oYJhr7cY",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Worn Pocket Sundial",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.EYmy3oJz1G718d6u",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.MMsIGqF6oYJhr7cY"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ayjRz3ixVWUNUPWp",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bent Monogrammed Spoon",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.XfCIxYeuB9MNFZ8n",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ayjRz3ixVWUNUPWp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "9Idal0mpQYTKSdVz",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Layered Sand in a Pouch",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.TWaODvldv41HRXqm",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.9Idal0mpQYTKSdVz"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "f8g3nHo4fLbJQHNp",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bundle of Unlabeled Herbs",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.IBdzW8gm0ENRJLWI",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.f8g3nHo4fLbJQHNp"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "UfoBn7qRkHfKpx9C",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Button of an Unknown Crest",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.NQPiidrOkJyf553P",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.UfoBn7qRkHfKpx9C"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "sP6AjjUoSHwGcuwj",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Vial That Never Evaporates",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.gad5kaPSAp1OIUgF",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.sP6AjjUoSHwGcuwj"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "G4qTxQcgv4buxfjK",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Note in an Unknown Cipher",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.0H4oQIBS3EPZvC3S",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.G4qTxQcgv4buxfjK"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        101,
+        101
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "z3DNh2cqxDmV4gJ2",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Muted Bell on a Ribbon",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.9MnzYEII0lNTcW0V",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.z3DNh2cqxDmV4gJ2"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        102,
+        102
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "cF3JsxWVSPYvgYAB",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Chart Fragment, No Coastline",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.uLWHsVaS5HxmfakN",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.cF3JsxWVSPYvgYAB"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        103,
+        103
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ELPbUoNV7idJBSTJ",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Ivory Hairpin, Mended with Gold",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.hPAkSJMiyi6G0l6G",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ELPbUoNV7idJBSTJ"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        104,
+        104
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "YygvOJvLVKk2EDBi",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Bag of Marbles, One Oversized",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.4NSDTn6Unbo73QpV",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.YygvOJvLVKk2EDBi"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        105,
+        105
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "4ljGyWUOUqZvjI4l",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Icon of an Unrecognized Saint",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.9ODp5JmCLkEDI8QL",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.4ljGyWUOUqZvjI4l"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        106,
+        106
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "QzIBWjINfGRtYVAT",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Undersized Copper Ring",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.ThlXT5gYV2NpWdOd",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.QzIBWjINfGRtYVAT"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        107,
+        107
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "xy2xLaepHeW0KcWw",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Introduction Letter, Name Torn Away",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.4JGBr4V27cQwNTwR",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.xy2xLaepHeW0KcWw"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        108,
+        108
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "SB045wmjHG0bZO0i",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Faintly Glowing Oil Vial",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.JbBd3Poc2KPKKA9U",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.SB045wmjHG0bZO0i"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        109,
+        109
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "SM43O5Cz27ZrNOKA",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Locket with a Foreign Feather",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.bc875guTVwFfvYx7",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.SM43O5Cz27ZrNOKA"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        110,
+        110
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "Lw0MwJsr4r6FcIPa",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Fortune Deck, One Card Missing",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.sb0RHmc7WpY9GyMx",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.Lw0MwJsr4r6FcIPa"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        111,
+        111
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "y1Ds8pqp0n2YSJri",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Empty Gold Locket",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.xanDV8FxYJzjjLDS",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.y1Ds8pqp0n2YSJri"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        112,
+        112
+      ],
+      "drawn": false,
+      "img": "icons/svg/d20-black.svg",
+      "_id": "ZAvTPeqtHKz7ULpC",
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785008842342,
+        "modifiedTime": 1785008842342,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Nearly Empty Tin of Rouge",
+      "documentUuid": "Compendium.npc-generator.trinket-items.Item.zuWnE9x4tAp6GCwS",
+      "description": "",
+      "_key": "!tables.results!kVyxnINgxWRBEZxy.ZAvTPeqtHKz7ULpC"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785008842342,
+    "modifiedTime": 1785008842342,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d112",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!kVyxnINgxWRBEZxy"
+}

@@ -1,0 +1,2629 @@
+{
+  "_id": "4t7tdDmBuowfNxVj",
+  "name": "Ideals",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "8MQ0JwErCKUFsxT4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Community. We all have to work together to survive. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.8MQ0JwErCKUFsxT4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "B7uCLFn1Pd2i3ZPY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Freedom. Chains are meant to be broken, as are those who forge them. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.B7uCLFn1Pd2i3ZPY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "L3l8W9Z01bu0M08F",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Greed. I'm only in it for the money. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.L3l8W9Z01bu0M08F"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "PpgmzH8le7mJ31PZ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tradition. The old ways must be preserved. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.PpgmzH8le7mJ31PZ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "DeEHahxK6gMGt2OO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Honesty. I never lie, even when the truth is unpleasant. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.DeEHahxK6gMGt2OO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "iekmwZOiYPZ3nyzc",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power. Only the strong survive, and I intend to be one of them. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.iekmwZOiYPZ3nyzc"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "wK0yzSe2DAr8X0G5",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercy. Even my enemies deserve a chance to surrender. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.wK0yzSe2DAr8X0G5"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "ppDmj0xEFM3TNyeH",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charity. What I have, I share with those who have less. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.ppDmj0xEFM3TNyeH"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "J0LT7BQIqaudB4xQ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Redemption. No one is beyond saving, including me. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.J0LT7BQIqaudB4xQ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "NOrzsWRblCfjW8aM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sacrifice. I would give my life to save a stranger's. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.NOrzsWRblCfjW8aM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "EKGNOTqvkAPYg6lZ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kindness. A small act of compassion is never wasted. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.EKGNOTqvkAPYg6lZ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "QBKxd3NhveUlRLUo",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protection. The strong exist to shield the weak. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.QBKxd3NhveUlRLUo"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "fSHfA5NXtfEbkji9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forgiveness. Holding onto anger only poisons the one who holds it. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.fSHfA5NXtfEbkji9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "7xnsYcof5rLLRk3M",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hope. Even in the darkest places, something good can grow. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.7xnsYcof5rLLRk3M"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Eq8jWcbsfhNegHBe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Healing. My purpose is to mend what's broken, not add to the ruin. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.Eq8jWcbsfhNegHBe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "ED5guVYXErO20clP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Selflessness. My own comfort matters less than others' survival. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.ED5guVYXErO20clP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "f2dxLT4Ys0EZNnuc",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Justice for the Powerless. Those who can't fight for themselves deserve someone who will. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.f2dxLT4Ys0EZNnuc"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "y5qdjeCJSkilCjy8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generosity. Wealth means nothing if it isn't shared. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.y5qdjeCJSkilCjy8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "F53pZM31EO9bCMq8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faith in Others. People rise to meet the trust placed in them. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.F53pZM31EO9bCMq8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "DTcEknYOCdn0h7cc",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Compassion. I judge people by their suffering, not their crimes. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.DTcEknYOCdn0h7cc"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "PU8IEsAPYMKxIQsP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guidance. I owe it to those who taught me to teach others in turn. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.PU8IEsAPYMKxIQsP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "MYcRsPkjR3VpQxKP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peace. Any war avoided is a victory worth having. (Good)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.MYcRsPkjR3VpQxKP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "vaaN5vXd8VdpcjYh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Domination. The world belongs to whoever is strong enough to take it. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.vaaN5vXd8VdpcjYh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "wQBYVy0omKX04LbU",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cruelty. Fear is a far more reliable tool than kindness. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.wQBYVy0omKX04LbU"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "4nh0LNlvFUeblvZu",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ambition. I will let nothing, and no one, stand between me and power. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.4nh0LNlvFUeblvZu"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "H3UVRf3ps4mXXHZS",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vengeance. Every wrong done to me will be repaid tenfold. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.H3UVRf3ps4mXXHZS"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "T51To0Mn64bIJ9dZ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Survival of the Fittest. The weak exist to serve the strong. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.T51To0Mn64bIJ9dZ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "U0BHy8cKAEuN3gkN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deception. A well-placed lie is worth more than a hundred truths. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.U0BHy8cKAEuN3gkN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "yebZZ1SPwFKw0jLm",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conquest. Territory is only ever borrowed until someone stronger arrives. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.yebZZ1SPwFKw0jLm"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "YE121PmJHeOWNaUR",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ruthlessness. Mercy is a debt I've never been able to afford. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.YE121PmJHeOWNaUR"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "RgRXQUiqPIzjzhVe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corruption. Every soul has a price, and I intend to learn everyone's. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.RgRXQUiqPIzjzhVe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "2eFwk9rs3Y846NZT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dominance. I was born to rule, and the rest were born to obey. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.2eFwk9rs3Y846NZT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "RK9dnXpTewNWQvUY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malice. Suffering is fascinating, and I intend to study it closely. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.RK9dnXpTewNWQvUY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "47VQiJSOp1m8NOzO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Greed Above All. There is no such thing as enough. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.47VQiJSOp1m8NOzO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "7STzu1LbMkAmte7l",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tyranny. Order only exists because someone is willing to enforce it absolutely. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.7STzu1LbMkAmte7l"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "C615IeFQIvkOHYtH",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sacrifice of Others. Someone has to pay the price for progress, and it won't be me. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.C615IeFQIvkOHYtH"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "qpaWCFowS7T6xhVk",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fear. A populace that fears me will never dare rise against me. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.qpaWCFowS7T6xhVk"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "bL5POASuziEycp3p",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Betrayal. Loyalty is a tool, and tools are meant to be used and discarded. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.bL5POASuziEycp3p"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "nd9iqPvfBLoN3aef",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bloodlust. The battlefield is the only place I've ever truly felt alive. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.nd9iqPvfBLoN3aef"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "DO0bZdUK7gE8Tfle",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Darkness. The old gods of shadow deserve worship more than the false light ever did. (Evil)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.DO0bZdUK7gE8Tfle"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "kA54RpEiNeiuKPcF",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Order. Chaos is the enemy of everything worth building. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.kA54RpEiNeiuKPcF"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "RIPhpe9yM4BYMHaG",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Duty. My oath binds me more tightly than any chain could. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.RIPhpe9yM4BYMHaG"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "3Q8GBbe6AozKiuju",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discipline. Strength without control is just a disaster waiting to happen. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.3Q8GBbe6AozKiuju"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "iWT3edJTWY2pSJBL",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Law. Rules exist to protect us from ourselves. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.iWT3edJTWY2pSJBL"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "vFUZKLakAIwOcj1J",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hierarchy. Every structure needs someone at the top, and someone to answer to them. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.vFUZKLakAIwOcj1J"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "VYVpEq2r5QUvo6vY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loyalty to the Crown. My duty to the throne outweighs my own wishes. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.VYVpEq2r5QUvo6vY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "dWj50K1y1DW17Z6e",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Contracts. A deal signed is a deal honored, whatever it costs me. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.dWj50K1y1DW17Z6e"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "H99dk0DH62sm08Sr",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structure. A society without rules is no society at all. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.H99dk0DH62sm08Sr"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "G3zty859TiCFUSSN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Honor. My word is worth more than my life. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.G3zty859TiCFUSSN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "LQJbfBlDt3CC3GsD",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Chain of Command. Questioning orders is how good plans fall apart. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.LQJbfBlDt3CC3GsD"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        51,
+        51
+      ],
+      "_id": "NRSfIABVCJfEziO5",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precedent. What has worked before will work again. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.NRSfIABVCJfEziO5"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        52,
+        52
+      ],
+      "_id": "5EbsOFQTGQUN3lqX",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ritual. The old rites must be observed, exactly as they always have been. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.5EbsOFQTGQUN3lqX"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        53,
+        53
+      ],
+      "_id": "KPUvJsmoWNFOgSCp",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accountability. Everyone answers for their actions eventually, myself included. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.KPUvJsmoWNFOgSCp"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        54,
+        54
+      ],
+      "_id": "437zHAEMI2iQiBap",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Service. My guild comes before my own ambitions. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.437zHAEMI2iQiBap"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        55,
+        55
+      ],
+      "_id": "000s2PY6o0aSVNOE",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Codex. Every question has already been answered, if you know where to look. (Lawful)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.000s2PY6o0aSVNOE"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        56,
+        56
+      ],
+      "_id": "OB8C2wAZKoZNXaCM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebellion. Every throne deserves to be tested. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.OB8C2wAZKoZNXaCM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        57,
+        57
+      ],
+      "_id": "yzg0hBMUMa7F21W4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impulse. Plans are just an excuse to hesitate. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.yzg0hBMUMa7F21W4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        58,
+        58
+      ],
+      "_id": "OdzdBRoZdRbv9g7T",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Change. Nothing should be allowed to stay the same for too long. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.OdzdBRoZdRbv9g7T"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        59,
+        59
+      ],
+      "_id": "jlyufUnkAhLZvPHu",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Independence. I answer to no one but myself. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.jlyufUnkAhLZvPHu"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        60,
+        60
+      ],
+      "_id": "guEm7QyfScoPqnFO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wanderlust. The road matters more to me than any destination. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.guEm7QyfScoPqnFO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        61,
+        61
+      ],
+      "_id": "F7K6fkyjtt6h0tci",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anarchy. Every rule is a cage waiting to be broken. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.F7K6fkyjtt6h0tci"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        62,
+        62
+      ],
+      "_id": "g3fuNsYdfpr9DLsB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whimsy. Life's too short to take seriously. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.g3fuNsYdfpr9DLsB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        63,
+        63
+      ],
+      "_id": "z9yhGQDwwLFsIv3v",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defiance. I'll do the opposite of whatever I'm told, on principle. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.z9yhGQDwwLFsIv3v"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        64,
+        64
+      ],
+      "_id": "AlREQkCv4FcOmAJV",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Instinct. I trust my gut over anyone's careful plan. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.AlREQkCv4FcOmAJV"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        65,
+        65
+      ],
+      "_id": "Hwmg08KLwcrOhS0L",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unpredictability. If they can predict me, I've already lost. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.Hwmg08KLwcrOhS0L"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        66,
+        66
+      ],
+      "_id": "26FILXAnVKeP7NLN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Individuality. Conformity is a slow kind of death. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.26FILXAnVKeP7NLN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        67,
+        67
+      ],
+      "_id": "ID6XXwkmY1IAnctY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luck. Fortune favors those bold enough to ignore the odds. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.ID6XXwkmY1IAnctY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        68,
+        68
+      ],
+      "_id": "hYQ0pN4IoY16qKjq",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Freedom of Thought. No idea is too dangerous to consider. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.hYQ0pN4IoY16qKjq"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        69,
+        69
+      ],
+      "_id": "KxXVPxJ7wU6f8IJd",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restlessness. Staying in one place too long feels like drowning. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.KxXVPxJ7wU6f8IJd"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        70,
+        70
+      ],
+      "_id": "BbcYlbxY8u4dQnrH",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disruption. The status quo was never going to save anyone. (Chaotic)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.BbcYlbxY8u4dQnrH"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        71,
+        71
+      ],
+      "_id": "aTZUerWPQhYztofZ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Balance. Too much of anything, even good, causes harm. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.aTZUerWPQhYztofZ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        72,
+        72
+      ],
+      "_id": "lTBp2BQUrvTgJmOW",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nature. The wilds owe nothing to civilization, and I owe everything to the wilds. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.lTBp2BQUrvTgJmOW"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        73,
+        73
+      ],
+      "_id": "BqddkUjeMc4rrLph",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knowledge. Understanding the world matters more than judging it. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.BqddkUjeMc4rrLph"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        74,
+        74
+      ],
+      "_id": "jpJAj4sUWCBOwYOq",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-Reliance. I trust my own strength before I trust anyone else's promises. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.jpJAj4sUWCBOwYOq"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        75,
+        75
+      ],
+      "_id": "ARIHVkppEkloFcn7",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pragmatism. Whatever gets the job done is the right approach. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.ARIHVkppEkloFcn7"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        76,
+        76
+      ],
+      "_id": "4dy7WNwJGKwKRbMv",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neutrality. I take no side in wars that aren't mine to fight. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.4dy7WNwJGKwKRbMv"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        77,
+        77
+      ],
+      "_id": "MSwySYILqrMwFej0",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Curiosity. Every mystery deserves to be understood, whatever the cost. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.MSwySYILqrMwFej0"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        78,
+        78
+      ],
+      "_id": "5NXyhdxkpek9f4zK",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coin. Everything has a price, mine included. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.5NXyhdxkpek9f4zK"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        79,
+        79
+      ],
+      "_id": "1ji2hWNucitPIIjM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craft. My work speaks louder than my intentions ever could. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.1ji2hWNucitPIIjM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        80,
+        80
+      ],
+      "_id": "rIWS8qitcWKrhhH2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Family. Blood matters more to me than any cause. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.rIWS8qitcWKrhhH2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        81,
+        81
+      ],
+      "_id": "r7tBaxgjvtbFFOY0",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Legacy. I want to be remembered, more than I want to be good. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.r7tBaxgjvtbFFOY0"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        82,
+        82
+      ],
+      "_id": "qnwAfr7L3K69EIA4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Survival. Whatever keeps me breathing another day is worth doing. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.qnwAfr7L3K69EIA4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        83,
+        83
+      ],
+      "_id": "Uv35zac2R6ZlZNCc",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patience. Everything comes to those willing to wait long enough. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.Uv35zac2R6ZlZNCc"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        84,
+        84
+      ],
+      "_id": "P8DgkX3NnVaKu4kC",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solitude. I trust silence more than most people's company. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.P8DgkX3NnVaKu4kC"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        85,
+        85
+      ],
+      "_id": "cSmXz41gvtKKw0Zi",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fate. Whatever happens was always going to happen. (Neutral)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.cSmXz41gvtKKw0Zi"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        86,
+        86
+      ],
+      "_id": "MyMaPKAOhzOhD2LH",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aspiration. I want to be remembered for something greater than myself. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.MyMaPKAOhzOhD2LH"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        87,
+        87
+      ],
+      "_id": "th028I1m80RU81Qr",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Curiosity About the Self. I'm still trying to figure out who I really am. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.th028I1m80RU81Qr"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        88,
+        88
+      ],
+      "_id": "V0KKagbwL3ZMJR2G",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Craft. Whatever I do, I do it better than anyone else. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.V0KKagbwL3ZMJR2G"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        89,
+        89
+      ],
+      "_id": "fsx9imf0D6obEIqu",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Belonging. I just want somewhere, and someone, to call my own. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.fsx9imf0D6obEIqu"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        90,
+        90
+      ],
+      "_id": "KhwMy8lhyS1b4Ysg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Legacy of a Teacher. I owe it to my mentor to live up to what they saw in me. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.KhwMy8lhyS1b4Ysg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        91,
+        91
+      ],
+      "_id": "AOeeDFGrufXxYnDl",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Journey. It's not about where I end up, it's about who I become along the way. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.AOeeDFGrufXxYnDl"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        92,
+        92
+      ],
+      "_id": "cu5PGPHh0DXSRuud",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proving Myself. I have something to prove, to them and to myself. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.cu5PGPHh0DXSRuud"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        93,
+        93
+      ],
+      "_id": "jibEwaiD4cuDOI0l",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Unfinished Task. I won't rest until what I started is finished. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.jibEwaiD4cuDOI0l"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        94,
+        94
+      ],
+      "_id": "X4Tbz5qIqSai2vhS",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Second Chances. Everyone deserves one more chance than they think they do. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.X4Tbz5qIqSai2vhS"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        95,
+        95
+      ],
+      "_id": "yJLmS5k3ejrqHB27",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Truth. Whatever else changes, I won't lie to myself about who I am. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.yJLmS5k3ejrqHB27"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        96,
+        96
+      ],
+      "_id": "KP7g5wsyQxKU2JDn",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Debt. I owe someone everything, and I intend to pay it in full. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.KP7g5wsyQxKU2JDn"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        97,
+        97
+      ],
+      "_id": "35wf3iBrTY4vUAKV",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reputation. What people say about me matters more than it should. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.35wf3iBrTY4vUAKV"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        98,
+        98
+      ],
+      "_id": "x9vnQWj3JrU8rKDh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Old Ways. However the world changes, some things are worth preserving. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.x9vnQWj3JrU8rKDh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        99,
+        99
+      ],
+      "_id": "GafhjM7Emtm05eon",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simplicity. The fewer things I need, the freer I am. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.GafhjM7Emtm05eon"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        100,
+        100
+      ],
+      "_id": "dYIDE7lDxktQAcVF",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917339,
+        "modifiedTime": 1785009917339,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The Unanswered Question. There's something I need to know, whatever it takes. (Any)",
+      "name": "",
+      "_key": "!tables.results!4t7tdDmBuowfNxVj.dYIDE7lDxktQAcVF"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785009917339,
+    "modifiedTime": 1785009917339,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!4t7tdDmBuowfNxVj"
+}

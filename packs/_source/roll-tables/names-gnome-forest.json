@@ -1,0 +1,1329 @@
+{
+  "_id": "JK1nAyDIq4FN03y8",
+  "name": "Names — Gnome, Forest",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Eum8YVLj9Y9IQPAD",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nissaot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.Eum8YVLj9Y9IQPAD"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "epJITJscIEhqSeBn",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wiknix",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.epJITJscIEhqSeBn"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "874CJHPjNh7iBG4u",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wrennaock",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.874CJHPjNh7iBG4u"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "0VwOul3GhZ4vGKmc",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbindle",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.0VwOul3GhZ4vGKmc"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "tZIakLOVkiYdC3Nh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dimbleot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.tZIakLOVkiYdC3Nh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "B0gD5cvZI5rm6PT3",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shimin",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.B0gD5cvZI5rm6PT3"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "vb2ROCPaX6V7pqaZ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narkot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.vb2ROCPaX6V7pqaZ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "98Amb4oSSdk8IRtm",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elzyette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.98Amb4oSSdk8IRtm"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "8Xf2qpoyJJlWgZPP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narkin",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.8Xf2qpoyJJlWgZPP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "h7Efdj0gKOrmVDE2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wikble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.h7Efdj0gKOrmVDE2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "faDIxVmSlYp3qgJn",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tumblenix",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.faDIxVmSlYp3qgJn"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "gwvxFG77NWSzirVa",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narknix",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.gwvxFG77NWSzirVa"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "bRRLUy8TjmrQNtIG",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brindleie",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.bRRLUy8TjmrQNtIG"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "LfWU5FyXA9oemCZ9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wikie",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.LfWU5FyXA9oemCZ9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "HxLSCFRB0GsyUBBT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fonkinin",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.HxLSCFRB0GsyUBBT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "32wEn1cBnGg3EsYw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbinble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.32wEn1cBnGg3EsYw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "Ti76haIEduoZ7Pe9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narkock",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.Ti76haIEduoZ7Pe9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "q2t8YPqQVgqfS7D9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hobbetette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.q2t8YPqQVgqfS7D9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "pF9apLDA0iE001jy",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimock",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.pF9apLDA0iE001jy"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "yMLY7lWy8IZV6Kb7",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimie",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.yMLY7lWy8IZV6Kb7"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "3bEevDn19MzpWTB8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tumbleble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.3bEevDn19MzpWTB8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "PsY2sliIfY66sI0v",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bimbleette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.PsY2sliIfY66sI0v"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "AyPlV4cSTjv5mPUH",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dimbleie",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.AyPlV4cSTjv5mPUH"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "EgSfq6PG1UAVuT4H",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dottette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.EgSfq6PG1UAVuT4H"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "xcA6GtVi2dmdZ7PA",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fonkinble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.xcA6GtVi2dmdZ7PA"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "FQMmMHFm3nB279rF",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bimblenix",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.FQMmMHFm3nB279rF"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "WNjy7ub9gl6Hi25o",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dottot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.WNjy7ub9gl6Hi25o"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "n7z4Ym7vcaq4i6n9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bimbledle",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.n7z4Ym7vcaq4i6n9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "qBRg2Nd0qtI6TbTe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zookin",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.qBRg2Nd0qtI6TbTe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "jtBymkZMZrcu2FJE",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wrennaette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.jtBymkZMZrcu2FJE"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "U5E88bG946j231Sf",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hobbetie",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.U5E88bG946j231Sf"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "h8saunqpvkwh4NQB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbinot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.h8saunqpvkwh4NQB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "4lyUhAZK25Mv1kPx",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tumbleette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.4lyUhAZK25Mv1kPx"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "XjZJtEsR7tBYyXbw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zookette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.XjZJtEsR7tBYyXbw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "l13zu0qtfc8zPtOW",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nissaette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.l13zu0qtfc8zPtOW"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "upEFGWgTqJ5QFc8s",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tumblein",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.upEFGWgTqJ5QFc8s"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "8AMNtLcykyQMsgmg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hobbetot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.8AMNtLcykyQMsgmg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "sZTRlOUckNosEnl1",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbinette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.sZTRlOUckNosEnl1"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "kGtOclXfbT7ZOEVT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zookble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.kGtOclXfbT7ZOEVT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "ayTbpBcuIHNvmZyP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pogble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.ayTbpBcuIHNvmZyP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "uR48rODK0cwCgwUT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.uR48rODK0cwCgwUT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "at3OJjaENcRataEx",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tumbleot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.at3OJjaENcRataEx"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "8R6oZdea4cEyavXp",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narkble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.8R6oZdea4cEyavXp"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "y6NGV5MMUger1m1W",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ginkleot",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.y6NGV5MMUger1m1W"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "oIBxIyjFTmXnAuW2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shimnix",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.oIBxIyjFTmXnAuW2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "pHOMXf8HvEk56tci",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hobbetble",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.pHOMXf8HvEk56tci"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "hZl3r1BzkPwBps1P",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shimette",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.hZl3r1BzkPwBps1P"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "OFeurLPAZVQw27VX",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pogdle",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.OFeurLPAZVQw27VX"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "YVPGNIepleECiJj3",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frennin",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.YVPGNIepleECiJj3"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "nGc4xwqyKIrLd9pN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776659,
+        "modifiedTime": 1785012776659,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glimdle",
+      "name": "",
+      "_key": "!tables.results!JK1nAyDIq4FN03y8.nGc4xwqyKIrLd9pN"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785012776659,
+    "modifiedTime": 1785012776659,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d50",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!JK1nAyDIq4FN03y8"
+}

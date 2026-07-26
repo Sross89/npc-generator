@@ -1,0 +1,1329 @@
+{
+  "_id": "dwswEcJYoB7KtZU8",
+  "name": "Names — Goliath",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "lBLNLhAhW1RNNaxu",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.lBLNLhAhW1RNNaxu"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "eNYuEOT4TtIdygZn",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keothi \"Ashclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.eNYuEOT4TtIdygZn"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "y0vVbdY4ow1L4fmM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keothi \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.y0vVbdY4ow1L4fmM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "MgcSGWyIJ17YPmPj",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kova \"Longstride\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.MgcSGWyIJ17YPmPj"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "D7xxD9PYyajMX5Di",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keothi \"Wolfsbane\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.D7xxD9PYyajMX5Di"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ntJU7W9QU5OeMxRj",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Ironjaw\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.ntJU7W9QU5OeMxRj"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "tQwnBYDIuVHNVVmw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sova \"Wolfsbane\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.tQwnBYDIuVHNVVmw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "fojGVR8IPfvaMUA4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Highwatch\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.fojGVR8IPfvaMUA4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "gR9pj5YrelVB2V6K",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thotham \"Nightclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.gR9pj5YrelVB2V6K"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "UAKTVOfXMkqPRyfc",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thala \"Stonebreaker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.UAKTVOfXMkqPRyfc"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "jBxlZ84FeJETFZam",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vren \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.jBxlZ84FeJETFZam"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "yapLJ5x6Aqf7qTN1",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vimak \"Ashclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.yapLJ5x6Aqf7qTN1"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "OG3G273LoFKC9oCz",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ilikan \"Windrunner\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.OG3G273LoFKC9oCz"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "kcVMwJhQhv4nxuA4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sova \"Windrunner\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.kcVMwJhQhv4nxuA4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "6LAZZ41Nh7WnXJh0",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lo \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.6LAZZ41Nh7WnXJh0"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "BQ2JyXK44Zd8Ub9w",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orilo \"Ironjaw\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.BQ2JyXK44Zd8Ub9w"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "DdUYK2exgHKQiZjl",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ilikan \"Ashclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.DdUYK2exgHKQiZjl"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "Ai7hkUiwdgMAXQEq",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keothi \"Deepwalker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.Ai7hkUiwdgMAXQEq"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "q3DjBUUu0b22dUSs",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orilo \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.q3DjBUUu0b22dUSs"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "CIFYLiqt3l0b8CEe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tamak \"Ironjaw\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.CIFYLiqt3l0b8CEe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "dMjhc8xspuvE7kop",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uvara \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.dMjhc8xspuvE7kop"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "p3IVv3Z7C0i90bPT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Emberhand\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.p3IVv3Z7C0i90bPT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "QgoA7ltDd2B58U9o",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thala \"Ridgeback\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.QgoA7ltDd2B58U9o"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "XhB6VNjAtLgrxjjG",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nalka \"Nightclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.XhB6VNjAtLgrxjjG"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "8YMRd3qRXtoc1qzB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yuki \"Deepwalker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.8YMRd3qRXtoc1qzB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "2QNNBMu4kbvTXW6v",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vimak \"Stonebreaker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.2QNNBMu4kbvTXW6v"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "bCHx7oscDNdA4f26",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lo \"Deepwalker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.bCHx7oscDNdA4f26"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "MtjGHUtDwjnSPPpn",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manex \"Ashclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.MtjGHUtDwjnSPPpn"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "PU4x3ybxATsN6t5V",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vaunea \"Farsight\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.PU4x3ybxATsN6t5V"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "mS4yineaJOti2LEh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gae \"Thornheart\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.mS4yineaJOti2LEh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "YIPkHdG41ZJRJdFy",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vren \"Stonebreaker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.YIPkHdG41ZJRJdFy"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "r8c5BF1h4KhCjCKT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thala \"Sky-scarred\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.r8c5BF1h4KhCjCKT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "RUsRUq11Xiv1wxya",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thala \"Windrunner\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.RUsRUq11Xiv1wxya"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "D5q4vqfXd4KNqKH9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ilikan \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.D5q4vqfXd4KNqKH9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "Jq5SQCpgqyud6eCN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Suncrest\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.Jq5SQCpgqyud6eCN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "KvHdxeyeQURRMpUC",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tamak \"Windrunner\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.KvHdxeyeQURRMpUC"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "G3kzK2XzST5x6cBQ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thotham \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.G3kzK2XzST5x6cBQ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "oUty0RSsJfOXb0jj",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tamak \"Highwatch\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.oUty0RSsJfOXb0jj"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "GyJUopKtvowlUEdm",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vaunea \"Stormfist\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.GyJUopKtvowlUEdm"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "WRjOANLKLxCAFHOM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thotham \"Ridgeback\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.WRjOANLKLxCAFHOM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "gCvC5YRVABkMUZ1e",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uvara \"Ashclimber\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.gCvC5YRVABkMUZ1e"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "5Q0h6UQFD9ChyNcw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gae \"Wolfsbane\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.5Q0h6UQFD9ChyNcw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "6iFEnMaaoq4XTBxO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sova \"Duskwalker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.6iFEnMaaoq4XTBxO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "AJjntj7GozvY2O83",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yuki \"Ridgeback\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.AJjntj7GozvY2O83"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "7xTN4wqLcNFTf6mW",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Sky-scarred\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.7xTN4wqLcNFTf6mW"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "QBho1PT0eCVnyFwd",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manex \"Highwatch\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.QBho1PT0eCVnyFwd"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "IEbdyp5nplrRvMHO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keothi \"Stonebreaker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.IEbdyp5nplrRvMHO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "qwJ9ns0sTnMNnGZf",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reyu \"Ashenfoot\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.qwJ9ns0sTnMNnGZf"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "QOZxUVx0IOdoYaDz",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uvara \"Duskwalker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.QOZxUVx0IOdoYaDz"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "23KTnuHFbYTuFS5W",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sakor \"Stonebreaker\"",
+      "name": "",
+      "_key": "!tables.results!dwswEcJYoB7KtZU8.23KTnuHFbYTuFS5W"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785012776661,
+    "modifiedTime": 1785012776661,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d50",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!dwswEcJYoB7KtZU8"
+}

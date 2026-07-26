@@ -1,0 +1,1329 @@
+{
+  "_id": "8OcO2yB5TsYIv9Yl",
+  "name": "Names — Halfling",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "96OM3WsRymHXNo8F",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ottiliein",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.96OM3WsRymHXNo8F"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Zp4AlH1HEO7TssAS",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poppyworth",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.Zp4AlH1HEO7TssAS"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "5B0rJN41iu1zwHzK",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazelkin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.5B0rJN41iu1zwHzK"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "32776jAYpsYdSbSS",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ottilieley",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.32776jAYpsYdSbSS"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "mZIvjaIuiHvHkoFJ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gorseley",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.mZIvjaIuiHvHkoFJ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "CFqFDAxLmCRRmKzY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbley",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.CFqFDAxLmCRRmKzY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "wiwuVlq9FP9Zg2EY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ottilieette",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.wiwuVlq9FP9Zg2EY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "gz166bSw6NcETzWu",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazelworth",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.gz166bSw6NcETzWu"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "tbKUxsDam2kmonuw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tansyley",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.tbKUxsDam2kmonuw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "kncsD1FXrgm6QXLh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gorseo",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.kncsD1FXrgm6QXLh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "VjmnwN5LpIkyKN9b",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tobinin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.VjmnwN5LpIkyKN9b"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "xQFPDchv7w2TlpjL",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferrinin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.xQFPDchv7w2TlpjL"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "uXgQdRAtAJxJFB6x",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Willain",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.uXgQdRAtAJxJFB6x"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "SptyqP6qBTTYrzND",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poppykin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.SptyqP6qBTTYrzND"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "Jj9sDOOcvmhgH2Wp",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ottiliekin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.Jj9sDOOcvmhgH2Wp"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "kgZQG8sQOSc40kxg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fennickkin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.kgZQG8sQOSc40kxg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "gklsyfm26Xm9PNJx",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marlowic",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.gklsyfm26Xm9PNJx"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "rLNzCROjEx96nVVk",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brindlekin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.rLNzCROjEx96nVVk"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "d91fKvpZMHKJjC3D",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petrakin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.d91fKvpZMHKJjC3D"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "fOtSRAg2ft3mPssf",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazelo",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.fOtSRAg2ft3mPssf"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "i4edXSnmMCvN65vy",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbette",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.i4edXSnmMCvN65vy"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "N313g0c7nGCuoLp2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lindenin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.N313g0c7nGCuoLp2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "eOBjM6qhFtcVAHjH",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazely",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.eOBjM6qhFtcVAHjH"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "ZyOn9lIUZ0Xqir0K",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marlowkin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.ZyOn9lIUZ0Xqir0K"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "wqNg09xqOht7Dzz1",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dillyworth",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.wqNg09xqOht7Dzz1"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "0HWzM2tkRl1OK6zy",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tolmanin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.0HWzM2tkRl1OK6zy"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "ijME9FcZESBAnU7p",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marlowy",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.ijME9FcZESBAnU7p"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "Rx9BbohKWgk63EHg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brindleic",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.Rx9BbohKWgk63EHg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "stLcHT7bu0dAtmu7",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petraworth",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.stLcHT7bu0dAtmu7"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "cGFZcz2cqwBLlY1N",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wendelworth",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.cGFZcz2cqwBLlY1N"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "sBpRRH2s7t8xhZ3w",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Willakin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.sBpRRH2s7t8xhZ3w"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "VGHWAeWMLuakH9mg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferrinette",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.VGHWAeWMLuakH9mg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "Lmx8qwkarv2VWKhT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazelette",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.Lmx8qwkarv2VWKhT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "ceTo0fJrEIAOPPIP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wendelin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.ceTo0fJrEIAOPPIP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "nYmgIWqsgtrptKgB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lindenette",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.nYmgIWqsgtrptKgB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "yEUr3sUkA2hVyu7Q",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poppyette",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.yEUr3sUkA2hVyu7Q"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "jPEGwFDs4zHTPxAG",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dillyo",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.jPEGwFDs4zHTPxAG"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "vQlXHUuH40AMbZnB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poppyin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.vQlXHUuH40AMbZnB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "M8OewCxMfsVQV1Ey",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petrao",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.M8OewCxMfsVQV1Ey"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "aJ8nbXZhSfDYyB5W",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbo",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.aJ8nbXZhSfDYyB5W"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "UDtSEOIOWi1rC8LX",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tansykin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.UDtSEOIOWi1rC8LX"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "dsgmrBjNmUpiKSYe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lindeny",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.dsgmrBjNmUpiKSYe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "PHUV1zQwFjRN5QNF",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Willay",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.PHUV1zQwFjRN5QNF"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "vOHcIuzJ3uRe7ZAQ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lindenic",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.vOHcIuzJ3uRe7ZAQ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "2iwoQ7XUof8VZ6l0",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petraic",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.2iwoQ7XUof8VZ6l0"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "TrPLePqEUPa9btYE",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobby",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.TrPLePqEUPa9btYE"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "bSj9Z6pTcDy4uU7r",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mabbley",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.bSj9Z6pTcDy4uU7r"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "0M9m7GZK7W4RCeHO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tobino",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.0M9m7GZK7W4RCeHO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "lebb20HEvUarebZ2",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lindenkin",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.lebb20HEvUarebZ2"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "RtjlUxODWMIb1i1E",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785012776661,
+        "modifiedTime": 1785012776661,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferrinley",
+      "name": "",
+      "_key": "!tables.results!8OcO2yB5TsYIv9Yl.RtjlUxODWMIb1i1E"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785012776661,
+    "modifiedTime": 1785012776661,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d50",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!8OcO2yB5TsYIv9Yl"
+}

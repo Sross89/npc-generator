@@ -1,0 +1,2629 @@
+{
+  "_id": "Y1T5iWH0CVDxgvxG",
+  "name": "Bonds",
+  "img": "icons/svg/d20-black.svg",
+  "description": "",
+  "results": [
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        1,
+        1
+      ],
+      "_id": "lP4GpjVpeefZlmiw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would die to recover an old family heirloom lost long ago.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.lP4GpjVpeefZlmiw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        2,
+        2
+      ],
+      "_id": "aHqbQaQDBF4aVJuS",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my life to the person who saved me from ruin.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.aHqbQaQDBF4aVJuS"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        3,
+        3
+      ],
+      "_id": "VSBUbey09Peo2GEE",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Everything I do is for the common people.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.VSBUbey09Peo2GEE"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        4,
+        4
+      ],
+      "_id": "3msIEPtKlte05pm5",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I'm searching for a way to cure a debilitating illness.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.3msIEPtKlte05pm5"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        5,
+        5
+      ],
+      "_id": "s6AlWU8CHtqOWlL9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "My tools are symbols of my past life, and I carry them everywhere.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.s6AlWU8CHtqOWlL9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ztDKfd7BVeSGGiPf",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I protect those who cannot protect themselves.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.ztDKfd7BVeSGGiPf"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        7,
+        7
+      ],
+      "_id": "K0xGHHWb25PWeEVe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I have sworn an oath to a god I no longer believe in.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.K0xGHHWb25PWeEVe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        8,
+        8
+      ],
+      "_id": "daMVAcknwyBemtiF",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would burn the world down to bring back the family I lost.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.daMVAcknwyBemtiF"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        9,
+        9
+      ],
+      "_id": "GZBThs6t0Dr8fQbu",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe everything I am to the person who trained me.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.GZBThs6t0Dr8fQbu"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        10,
+        10
+      ],
+      "_id": "9GDByUAsjX3vifGC",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry a letter I've never had the courage to send.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.9GDByUAsjX3vifGC"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        11,
+        11
+      ],
+      "_id": "ohSBUWWqRUzygj2t",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I once served in a war, and I've never truly left it behind.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.ohSBUWWqRUzygj2t"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        12,
+        12
+      ],
+      "_id": "0uKyIpcCYsst75tb",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I am the last of my bloodline, and I intend to see it continue.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.0uKyIpcCYsst75tb"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        13,
+        13
+      ],
+      "_id": "Gg0uqtjKEW412beO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I made a promise to a dying friend that I have yet to keep.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.Gg0uqtjKEW412beO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        14,
+        14
+      ],
+      "_id": "UsnSRykUPZXEiJs6",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I answer to a patron whose true nature I don't fully understand.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.UsnSRykUPZXEiJs6"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        15,
+        15
+      ],
+      "_id": "pgdjZcnL73LogOEv",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe a debt to a criminal organization that I can never repay.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.pgdjZcnL73LogOEv"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        16,
+        16
+      ],
+      "_id": "4rIYfGm3IxLQpHtR",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "My silence was bought once, and I've been paid ever since.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.4rIYfGm3IxLQpHtR"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        17,
+        17
+      ],
+      "_id": "9dXDK1nYUsoGOD8Z",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would sell out anyone to protect the person who raised me.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.9dXDK1nYUsoGOD8Z"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        18,
+        18
+      ],
+      "_id": "R9lZ7sRbmmYQ2GHA",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve a master whose orders I never question.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.R9lZ7sRbmmYQ2GHA"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        19,
+        19
+      ],
+      "_id": "CaKPcY1o6v0tYWbK",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I built something terrible once, and I intend to finish it.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.CaKPcY1o6v0tYWbK"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        20,
+        20
+      ],
+      "_id": "qjqsTz9cCt9fmdaM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep the company of monsters because they never lied to me.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.qjqsTz9cCt9fmdaM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        21,
+        21
+      ],
+      "_id": "ODvtp3lDPU5HTMlj",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my freedom to someone I would now rather forget.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.ODvtp3lDPU5HTMlj"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        22,
+        22
+      ],
+      "_id": "DL2uTL8fDveRPirh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Every coin I earn goes toward buying back a debt I can't discuss.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.DL2uTL8fDveRPirh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        23,
+        23
+      ],
+      "_id": "pN97k7zBxSpzD75n",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I made a deal I didn't understand at the time, and it's coming due.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.pN97k7zBxSpzD75n"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        24,
+        24
+      ],
+      "_id": "QJEm02XqZxDDeDp0",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I once had a home, and I mean to take it back by any means necessary.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.QJEm02XqZxDDeDp0"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        25,
+        25
+      ],
+      "_id": "wfANgwflv5gmTbhS",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I follow the person who spared my life, wherever that leads.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.wfANgwflv5gmTbhS"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        26,
+        26
+      ],
+      "_id": "Gez6nVJA07i4QIF0",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep a shrine to a god that everyone else has forgotten.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.Gez6nVJA07i4QIF0"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        27,
+        27
+      ],
+      "_id": "ZzGFrRvbfmPJUYcw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I was raised by wolves, in every sense of the word.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.ZzGFrRvbfmPJUYcw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        28,
+        28
+      ],
+      "_id": "Ofs6FTukWD4KWsBg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my skill to a teacher I ultimately betrayed.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.Ofs6FTukWD4KWsBg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        29,
+        29
+      ],
+      "_id": "Wzl7tmEox4E8WmOT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would do anything to see my rival humbled.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.Wzl7tmEox4E8WmOT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        30,
+        30
+      ],
+      "_id": "D91rIoCk27aOoXcP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry the ashes of someone I couldn't save.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.D91rIoCk27aOoXcP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        31,
+        31
+      ],
+      "_id": "WB0da41Y3mGVLmTO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I've sworn to finish what my mentor started, whatever the cost.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.WB0da41Y3mGVLmTO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        32,
+        32
+      ],
+      "_id": "3PrwROuxRqr0NP6I",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I am bound to a contract written in blood, mine or someone else's.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.3PrwROuxRqr0NP6I"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        33,
+        33
+      ],
+      "_id": "JD73m95O5ddZm0zf",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I protect a secret that would ruin someone I love if it ever got out.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.JD73m95O5ddZm0zf"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        34,
+        34
+      ],
+      "_id": "HUY1FvqHboc6B2eb",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my life to a stranger I never got the chance to thank.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.HUY1FvqHboc6B2eb"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        35,
+        35
+      ],
+      "_id": "El7MD7zd4YJ0lU9R",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would trade any number of strangers' lives for my own family's safety.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.El7MD7zd4YJ0lU9R"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        36,
+        36
+      ],
+      "_id": "CLDbfwAAPqKxdjKB",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve the guild that saved me from starving as a child.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.CLDbfwAAPqKxdjKB"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        37,
+        37
+      ],
+      "_id": "u1hO5Pv4ossTbigC",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep a promise to someone who is no longer alive to release me from it.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.u1hO5Pv4ossTbigC"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        38,
+        38
+      ],
+      "_id": "dDOk9peDaBx9Q8LU",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "My loyalty belongs to whoever holds my true name.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.dDOk9peDaBx9Q8LU"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        39,
+        39
+      ],
+      "_id": "PApj34BN0MSBcPuP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I was cursed once, and only one person knows how to lift it.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.PApj34BN0MSBcPuP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        40,
+        40
+      ],
+      "_id": "S4DKQmjzSlA7fu7q",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I raised a child that isn't mine, and I'd die before I let harm reach them.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.S4DKQmjzSlA7fu7q"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        41,
+        41
+      ],
+      "_id": "NBLcQRRea1QdIA2t",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my strength to a ritual I'd rather not explain.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.NBLcQRRea1QdIA2t"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        42,
+        42
+      ],
+      "_id": "IVAzELtZU8WlnGQ1",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I follow the last order given to me by a commander long dead.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.IVAzELtZU8WlnGQ1"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        43,
+        43
+      ],
+      "_id": "a0irBKLIMIOWUEMo",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep the last letter from someone I failed to protect.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.a0irBKLIMIOWUEMo"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        44,
+        44
+      ],
+      "_id": "TRTaPyDi5cX7bpKM",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would betray any cause for the chance to see my name cleared.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.TRTaPyDi5cX7bpKM"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        45,
+        45
+      ],
+      "_id": "0aOEuZhbnRT3Vpak",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve a cult that saved me when no one else would.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.0aOEuZhbnRT3Vpak"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        46,
+        46
+      ],
+      "_id": "r28Ef9no5mYJCeFL",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe a blood debt that only violence can settle.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.r28Ef9no5mYJCeFL"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        47,
+        47
+      ],
+      "_id": "OKhQG1iqdgs7PQjt",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry a weapon that isn't mine to keep, and one day its owner will want it back.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.OKhQG1iqdgs7PQjt"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        48,
+        48
+      ],
+      "_id": "njIp2qmfn0bgUPgi",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I made a vow of silence about something I witnessed, and I intend to keep it.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.njIp2qmfn0bgUPgi"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        49,
+        49
+      ],
+      "_id": "dR9OpRKY6IK6tI01",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I was the only survivor of something terrible, and I owe it to the rest to remember.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.dR9OpRKY6IK6tI01"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        50,
+        50
+      ],
+      "_id": "aKsnVjC7f5lcOwOF",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep faith with a god that everyone else says is dead.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.aKsnVjC7f5lcOwOF"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        51,
+        51
+      ],
+      "_id": "3zvpzqs7o0ptBcTs",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve whoever pays best, and I have never once broken that arrangement.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.3zvpzqs7o0ptBcTs"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        52,
+        52
+      ],
+      "_id": "rBqKzEWhSUSd2pPi",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would burn every bridge I have to protect the one person who never judged me.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.rBqKzEWhSUSd2pPi"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        53,
+        53
+      ],
+      "_id": "5ZepxCLwwYJPIuHd",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my current name to someone who helped me disappear.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.5ZepxCLwwYJPIuHd"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        54,
+        54
+      ],
+      "_id": "RJ2KCg8JQZT1Af3E",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep a map to a place I've sworn never to return to.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.RJ2KCg8JQZT1Af3E"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        55,
+        55
+      ],
+      "_id": "G7hKvWcvqqKuueoe",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I protect a village that doesn't know what I did to keep it safe.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.G7hKvWcvqqKuueoe"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        56,
+        56
+      ],
+      "_id": "GskLdZbRfR0rBmO4",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I made a bargain with something that isn't entirely mortal.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.GskLdZbRfR0rBmO4"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        57,
+        57
+      ],
+      "_id": "TrXJaDttTRYj6RLD",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my education to a teacher I later helped destroy.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.TrXJaDttTRYj6RLD"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        58,
+        58
+      ],
+      "_id": "23Qjvulr9O6RUdH9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry a child's toy that belonged to someone I couldn't save.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.23Qjvulr9O6RUdH9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        59,
+        59
+      ],
+      "_id": "2uEUDOugqnR9q4jQ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I have sworn vengeance on the ones who wronged my family, whatever it costs.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.2uEUDOugqnR9q4jQ"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        60,
+        60
+      ],
+      "_id": "jzfcOCrJPMxy8YHh",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would give up any treasure to recover what was stolen from my bloodline.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.jzfcOCrJPMxy8YHh"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        61,
+        61
+      ],
+      "_id": "RAoL56T7YOtrGdnj",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve the memory of a leader whose ideals I no longer fully share.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.RAoL56T7YOtrGdnj"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        62,
+        62
+      ],
+      "_id": "mMYqY9bvaFPm3hxK",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my life to a healer who asked for nothing but silence in return.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.mMYqY9bvaFPm3hxK"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        63,
+        63
+      ],
+      "_id": "QiXHltBmz7IOR1Yt",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep watch over a grave that no one else visits.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.QiXHltBmz7IOR1Yt"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        64,
+        64
+      ],
+      "_id": "s2hwcQhLdumYrQsE",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I've sworn to protect a secret order, even from those closest to me.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.s2hwcQhLdumYrQsE"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        65,
+        65
+      ],
+      "_id": "AbzNdRQqL4STz9wU",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my current fortune to a theft I've never confessed to.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.AbzNdRQqL4STz9wU"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        66,
+        66
+      ],
+      "_id": "OyUR0AyMQat5IBB9",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would follow my old commander into any battle, even a losing one.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.OyUR0AyMQat5IBB9"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        67,
+        67
+      ],
+      "_id": "SQqXin2oG1swx6Lg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep a promise to raise my sibling's children as my own.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.SQqXin2oG1swx6Lg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        68,
+        68
+      ],
+      "_id": "H5YmP5oOXQOIk2G8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve a noble house that doesn't know its debts have come due.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.H5YmP5oOXQOIk2G8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        69,
+        69
+      ],
+      "_id": "bW6ymNG0Qc3Ng9Fm",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my safety to someone I've never actually met in person.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.bW6ymNG0Qc3Ng9Fm"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        70,
+        70
+      ],
+      "_id": "OaOfXsqp3OCxTsfm",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry the last words of a friend who didn't survive our escape.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.OaOfXsqp3OCxTsfm"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        71,
+        71
+      ],
+      "_id": "xvBXyor8Ksm3byrN",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I have pledged my sword to a cause I secretly doubt.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.xvBXyor8Ksm3byrN"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        72,
+        72
+      ],
+      "_id": "289aGPd4r7sQ9qxg",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would risk everything to see the ones who hurt me suffer in turn.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.289aGPd4r7sQ9qxg"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        73,
+        73
+      ],
+      "_id": "W9GoAOhLpplr58Jk",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my life to a demon, and the terms were never entirely clear.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.W9GoAOhLpplr58Jk"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        74,
+        74
+      ],
+      "_id": "EF3Ot0d6Ya60IXiD",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep a lock of hair from someone whose name I refuse to speak.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.EF3Ot0d6Ya60IXiD"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        75,
+        75
+      ],
+      "_id": "7zX84znC6M1bfs6G",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve a temple that saved me from a fate I won't discuss.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.7zX84znC6M1bfs6G"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        76,
+        76
+      ],
+      "_id": "mXJFIt6aELoiRh0s",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe an old friend a favor that could get us both killed.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.mXJFIt6aELoiRh0s"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        77,
+        77
+      ],
+      "_id": "gThaAhHgAt5qkirP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry a debt of honor from a duel I should have lost.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.gThaAhHgAt5qkirP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        78,
+        78
+      ],
+      "_id": "FJXYIiOyVpWjQwJD",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I protect the descendants of the family I once wronged.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.FJXYIiOyVpWjQwJD"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        79,
+        79
+      ],
+      "_id": "Www5bZjBkOYZAIGP",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would trade my own life to undo a single decision from my past.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.Www5bZjBkOYZAIGP"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        80,
+        80
+      ],
+      "_id": "y2JRkZykTP9adoZp",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my current skills to a criminal who taught me everything I know.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.y2JRkZykTP9adoZp"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        81,
+        81
+      ],
+      "_id": "ooe0cL65xqHFesyf",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep the company of the only people who've never asked about my past.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.ooe0cL65xqHFesyf"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        82,
+        82
+      ],
+      "_id": "MmolWgaECuay8WCU",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I've sworn to finish a war my parents started and never ended.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.MmolWgaECuay8WCU"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        83,
+        83
+      ],
+      "_id": "AO5qC1Bzo5gwW6Vw",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my loyalty to a spirit bound to the land where I was born.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.AO5qC1Bzo5gwW6Vw"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        84,
+        84
+      ],
+      "_id": "sT13q9NrjnAO1HuI",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry a ring that belongs to someone I failed to marry.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.sT13q9NrjnAO1HuI"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        85,
+        85
+      ],
+      "_id": "BkqX8spmdBM6epCI",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would give anything to see my hometown rebuilt.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.BkqX8spmdBM6epCI"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        86,
+        86
+      ],
+      "_id": "OWmZ6ZZVNbIRrnTa",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve a patron who saved my life and now owns a piece of my soul.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.OWmZ6ZZVNbIRrnTa"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        87,
+        87
+      ],
+      "_id": "kftNPNg4uLDd6DPo",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe a debt to the dead that only more death can settle.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.kftNPNg4uLDd6DPo"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        88,
+        88
+      ],
+      "_id": "DJQYFLjnk8NiNOql",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep the last promise made to me by someone I loved and lost.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.DJQYFLjnk8NiNOql"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        89,
+        89
+      ],
+      "_id": "gzFpfk8UoKUDVjOO",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I protect a secret that, if revealed, would start a war.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.gzFpfk8UoKUDVjOO"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        90,
+        90
+      ],
+      "_id": "2dWFsnizaX1bH9Kp",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917336,
+        "modifiedTime": 1785009917336,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would abandon any principle to keep my crew alive.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.2dWFsnizaX1bH9Kp"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        91,
+        91
+      ],
+      "_id": "WmkRnO3iKa4QOxuY",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my current identity to a mistake I've never corrected.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.WmkRnO3iKa4QOxuY"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        92,
+        92
+      ],
+      "_id": "1fWKS7tc8pMfgz4z",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry the banner of a cause that everyone else has given up on.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.1fWKS7tc8pMfgz4z"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        93,
+        93
+      ],
+      "_id": "fgiyLmTHctnfDduU",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve the only person who ever showed me kindness, no matter what they ask of me.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.fgiyLmTHctnfDduU"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        94,
+        94
+      ],
+      "_id": "vlQHmg82MSAdkAG5",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my life to a pact I signed without reading closely enough.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.vlQHmg82MSAdkAG5"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        95,
+        95
+      ],
+      "_id": "t98fOjUDqimZ3luT",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I keep watch for a monster that only I believe is still out there.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.t98fOjUDqimZ3luT"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        96,
+        96
+      ],
+      "_id": "3BM5cj9VEg4wxSo8",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would sacrifice a stranger without hesitation to protect my own.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.3BM5cj9VEg4wxSo8"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        97,
+        97
+      ],
+      "_id": "0PhkwT1Du02bVKNa",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I owe my current wealth to a partner I intend to eventually betray.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.0PhkwT1Du02bVKNa"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        98,
+        98
+      ],
+      "_id": "iT587r7Z2uRXUgak",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I carry the guilt of a job that went wrong, and someone else paid for it.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.iT587r7Z2uRXUgak"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        99,
+        99
+      ],
+      "_id": "jfy2uj0DnOgOGg7Z",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I serve an order that demands absolute obedience, and I've never once refused.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.jfy2uj0DnOgOGg7Z"
+    },
+    {
+      "type": "text",
+      "drawn": false,
+      "range": [
+        100,
+        100
+      ],
+      "_id": "2fXFaZjNm6WPtlVQ",
+      "img": "icons/svg/d20-black.svg",
+      "weight": 1,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": 1785009917337,
+        "modifiedTime": 1785009917337,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "I would follow the one who freed me from bondage into the darkest places imaginable.",
+      "name": "",
+      "_key": "!tables.results!Y1T5iWH0CVDxgvxG.2fXFaZjNm6WPtlVQ"
+    }
+  ],
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.347",
+    "systemId": null,
+    "systemVersion": null,
+    "createdTime": 1785009917337,
+    "modifiedTime": 1785009917337,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "formula": "1d100",
+  "sort": 0,
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!tables!Y1T5iWH0CVDxgvxG"
+}

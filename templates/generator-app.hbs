@@ -1,0 +1,64 @@
+<div class="generator-form">
+  <div class="form-group">
+    <label>{{localize "NPC_GENERATOR.Generator.Template"}}</label>
+    <select name="templateUuid">
+      {{selectOptions templates selected=selectedTemplateUuid valueAttr="uuid" labelAttr="name"}}
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label>{{localize "NPC_GENERATOR.Generator.Race"}}</label>
+    <select name="speciesUuid">
+      {{selectOptions species selected=selectedSpeciesUuid valueAttr="uuid" labelAttr="name"}}
+    </select>
+  </div>
+
+  <button type="button" data-action="rerollAll">
+    <i class="fa-solid fa-dice-d20"></i> {{localize "NPC_GENERATOR.Generator.RerollAll"}}
+  </button>
+
+  {{#with state}}
+  <fieldset>
+    <legend>{{localize "NPC_GENERATOR.Generator.Flavor"}}</legend>
+    {{> "modules/npc-generator/templates/partials/flavor-field.hbs" field="name" label=(localize "NPC_GENERATOR.Generator.Name") value=name}}
+    {{> "modules/npc-generator/templates/partials/flavor-field.hbs" field="quirk" label=(localize "NPC_GENERATOR.Generator.Quirk") value=quirk}}
+    {{> "modules/npc-generator/templates/partials/flavor-field.hbs" field="ideal" label=(localize "NPC_GENERATOR.Generator.Ideal") value=ideal}}
+    {{> "modules/npc-generator/templates/partials/flavor-field.hbs" field="bond" label=(localize "NPC_GENERATOR.Generator.Bond") value=bond}}
+    {{> "modules/npc-generator/templates/partials/flavor-field.hbs" field="flaw" label=(localize "NPC_GENERATOR.Generator.Flaw") value=flaw}}
+  </fieldset>
+
+  <fieldset>
+    <legend>{{localize "NPC_GENERATOR.Generator.Abilities"}}</legend>
+    <div class="ability-grid">
+      {{#each abilities as |value key|}}
+      <div class="ability-field">
+        <label>{{key}}</label>
+        <input type="number" data-field="ability.{{key}}" value="{{value}}">
+        <button type="button" data-action="reroll" data-field="ability.{{key}}" title="{{localize 'NPC_GENERATOR.Generator.Reroll'}}">
+          <i class="fa-solid fa-dice"></i>
+        </button>
+      </div>
+      {{/each}}
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>{{localize "NPC_GENERATOR.Generator.Inventory"}}</legend>
+    <div class="inventory-list">
+      {{#each inventory}}
+        {{> "modules/npc-generator/templates/partials/inventory-row.hbs" this}}
+      {{/each}}
+    </div>
+    <button type="button" data-action="addItem">
+      <i class="fa-solid fa-plus"></i> {{localize "NPC_GENERATOR.Generator.AddItem"}}
+    </button>
+    <p class="hint">{{localize "NPC_GENERATOR.Generator.DropHint"}}</p>
+  </fieldset>
+  {{/with}}
+
+  <footer class="form-footer">
+    <button type="button" data-action="createActor">
+      <i class="fa-solid fa-user-plus"></i> {{localize "NPC_GENERATOR.Generator.CreateActor"}}
+    </button>
+  </footer>
+</div>
