@@ -1,19 +1,21 @@
-<p class="hint">{{localize "NPC_GENERATOR.Settings.MenuHint"}}</p>
+<div class="settings-form">
+  <p class="hint">{{localize "NPC_GENERATOR.Settings.MenuHint"}}</p>
 
-{{#each categories}}
-<fieldset>
-  <legend>{{this.label}}</legend>
-  {{#if this.options.length}}
-    <div class="npc-generator-checkbox-list">
-      {{#each this.options}}
-      <label class="checkbox">
-        <input type="checkbox" name="{{../key}}.{{@index}}" value="{{this.id}}" {{checked this.checked}}>
-        {{this.label}}
-      </label>
-      {{/each}}
-    </div>
-  {{else}}
-    <p class="hint">{{localize "NPC_GENERATOR.Settings.NoCompendiums"}}</p>
-  {{/if}}
-</fieldset>
-{{/each}}
+  {{#each categories}}
+  <fieldset>
+    <legend>{{this.label}}</legend>
+    {{#if this.options.length}}
+      <div class="npc-generator-checkbox-list">
+        {{#each this.options}}
+        <label class="checkbox">
+          <input type="checkbox" name="{{../key}}.{{@index}}" value="{{this.id}}" {{checked this.checked}}>
+          {{this.label}}
+        </label>
+        {{/each}}
+      </div>
+    {{else}}
+      <p class="hint">{{localize "NPC_GENERATOR.Settings.NoCompendiums"}}</p>
+    {{/if}}
+  </fieldset>
+  {{/each}}
+</div>

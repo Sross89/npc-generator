@@ -2,7 +2,7 @@
   "id": "npc-generator",
   "title": "NPC Generator",
   "description": "Generate a fully-fleshed-out NPC — stat block, quirk, ideal, bond, flaw, name, and inventory — from a base template in one click.",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
