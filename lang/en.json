@@ -3,10 +3,12 @@
     "Settings": {
       "MenuName": "NPC Generator Sources",
       "MenuLabel": "Configure NPC Generator Sources",
-      "MenuHint": "Choose which installed compendiums supply Spells, Standard Items, and Species when generating NPCs. You can check multiple compendiums per category -- duplicates across them are not merged, so pick the ones you actually want.",
+      "MenuHint": "Choose which installed compendiums supply Spells, Standard Items, Species, Templates, and Roll Tables when generating NPCs. You can check multiple compendiums per category -- duplicates across them are not merged, so pick the ones you actually want. Templates and Roll Tables default to Wormsworth's Content Library.",
       "Spells": "Spells",
       "StandardItems": "Standard Items",
       "Species": "Species",
+      "Templates": "Templates",
+      "TableSources": "Roll Tables",
       "NoCompendiums": "No installed compendiums of this type were found."
     },
     "Generator": {

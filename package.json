@@ -1,9 +1,0 @@
-{
-  "name": "npc-generator",
-  "private": true,
-  "version": "0.1.0",
-  "description": "Build scripts for the NPC Generator Foundry VTT module. Not a runtime dependency of the module itself.",
-  "scripts": {
-    "build:packs": "node scripts/build-packs.mjs"
-  }
-}

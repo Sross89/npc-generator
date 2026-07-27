@@ -2,7 +2,7 @@
   "id": "npc-generator",
   "title": "NPC Generator",
   "description": "Generate a fully-fleshed-out NPC — stat block, quirk, ideal, bond, flaw, name, and inventory — from a base template in one click.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "compatibility": {
     "minimum": "13",
     "verified": "14"
@@ -12,6 +12,17 @@
       "name": "Simon Ross"
     }
   ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "wormsworth-content-library",
+        "type": "module",
+        "compatibility": {
+          "verified": "0.1.0"
+        }
+      }
+    ]
+  },
   "esmodules": [
     "scripts/module.js"
   ],
@@ -23,28 +34,6 @@
       "lang": "en",
       "name": "English",
       "path": "lang/en.json"
-    }
-  ],
-  "packs": [
-    {
-      "name": "npc-templates",
-      "label": "NPC Templates",
-      "system": "dnd5e",
-      "path": "packs/npc-templates",
-      "type": "Actor"
-    },
-    {
-      "name": "trinket-items",
-      "label": "Trinkets & Oddities (Items)",
-      "system": "dnd5e",
-      "path": "packs/trinket-items",
-      "type": "Item"
-    },
-    {
-      "name": "roll-tables",
-      "label": "NPC Generator Roll Tables",
-      "path": "packs/roll-tables",
-      "type": "RollTable"
     }
   ],
   "url": "https://github.com/Sross89/npc-generator",

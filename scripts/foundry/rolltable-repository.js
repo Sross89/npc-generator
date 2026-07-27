@@ -1,17 +1,27 @@
-import { PACKS } from "../constants.js";
+import { SETTINGS } from "../constants.js";
+import { getSourceIds } from "./settings.js";
 
+/** Pools every linked "Table Sources" compendium and returns the first table matching `name`. */
 async function getTableByName(name) {
-  const pack = game.packs.get(PACKS.ROLL_TABLES);
-  const index = await pack.getIndex();
-  const entry = index.find(e => e.name === name);
-  if (!entry) return null;
-  return pack.getDocument(entry._id);
+  for (const packId of getSourceIds(SETTINGS.TABLE_SOURCES)) {
+    const pack = game.packs.get(packId);
+    if (!pack) continue;
+    const index = await pack.getIndex();
+    const entry = index.find(e => e.name === name);
+    if (entry) return pack.getDocument(entry._id);
+  }
+  return null;
 }
 
 export async function listTableNames() {
-  const pack = game.packs.get(PACKS.ROLL_TABLES);
-  const index = await pack.getIndex();
-  return index.map(entry => entry.name);
+  const names = [];
+  for (const packId of getSourceIds(SETTINGS.TABLE_SOURCES)) {
+    const pack = game.packs.get(packId);
+    if (!pack) continue;
+    const index = await pack.getIndex();
+    for (const entry of index) names.push(entry.name);
+  }
+  return names;
 }
 
 /** Draws a single result's text. Silent — never posts to chat. Returns "" if the table is missing/empty. */

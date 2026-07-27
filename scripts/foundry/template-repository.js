@@ -1,14 +1,17 @@
-import { PACKS } from "../constants.js";
+import { SETTINGS } from "../constants.js";
+import { getSourceIds } from "./settings.js";
 
+/** Pools every Actor across every linked "Templates" compendium. */
 export async function listTemplates() {
-  const pack = game.packs.get(PACKS.TEMPLATES);
-  const index = await pack.getIndex();
-  return index.map(entry => ({
-    uuid: `Compendium.${PACKS.TEMPLATES}.Actor.${entry._id}`,
-    name: entry.name
-  }));
-}
-
-export async function getTemplateActor(uuid) {
-  return fromUuid(uuid);
+  const packIds = getSourceIds(SETTINGS.TEMPLATE_SOURCES);
+  const templates = [];
+  for (const packId of packIds) {
+    const pack = game.packs.get(packId);
+    if (!pack) continue;
+    const index = await pack.getIndex();
+    for (const entry of index) {
+      templates.push({ uuid: `Compendium.${packId}.Actor.${entry._id}`, name: entry.name });
+    }
+  }
+  return templates;
 }
