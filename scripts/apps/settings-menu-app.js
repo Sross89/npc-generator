@@ -24,13 +24,13 @@ export class SettingsMenuApp extends HandlebarsApplicationMixin(ApplicationV2) {
     id: "npc-generator-settings",
     tag: "form",
     classes: ["npc-generator", "settings-menu"],
-    window: { title: "NPC_GENERATOR.Settings.MenuLabel", icon: "fa-solid fa-people-group" },
-    position: { width: 480, height: "auto" },
+    window: { title: "NPC_GENERATOR.Settings.MenuLabel", icon: "fa-solid fa-people-group", resizable: true },
+    position: { width: 480, height: 640 },
     form: { handler: SettingsMenuApp.#onSubmit, closeOnSubmit: true }
   };
 
   static PARTS = {
-    form: { template: `modules/${MODULE_ID}/templates/settings-menu.hbs` },
+    form: { template: `modules/${MODULE_ID}/templates/settings-menu.hbs`, scrollable: [""] },
     footer: { template: "templates/generic/form-footer.hbs" }
   };
 

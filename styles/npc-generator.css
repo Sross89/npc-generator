@@ -52,6 +52,11 @@
   margin-bottom: 0.35rem;
 }
 
+.npc-generator.settings-menu .settings-form {
+  padding: 0.5rem;
+  overflow-y: auto;
+}
+
 .npc-generator.settings-menu .npc-generator-checkbox-list {
   display: flex;
   flex-direction: column;
